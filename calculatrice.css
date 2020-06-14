@@ -2,6 +2,7 @@ body{
 text-align:center;
 width: 49%;
 height: 1000px;
+background-color: teal;
 }
 #number{text-align: center;
     background-color: black;
@@ -20,6 +21,62 @@ height: 1000px;
     
 
 }
+}
+#entete{
+    text-align: left;
+width: 1000px;
+background-color: cyan;
+
+}
+ul{
+    width: 1000px;
+    background-color: cadetblue;
+    margin: 15px;
+    padding: 15px;
+}
+li{
+    margin: 10px;
+    padding: 10px;
+    color: black;
+display:inline;
+list-style-type: none;
+margin-left:20px;
+margin-right:20px;
+margin-bottom: 0px;
+margin-top: 0px;
+padding: 0px;
+text-align: center;
+text-transform:capitalize;
+font-size:25px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: inherit;
+}
+#titre{
+    text-transform: uppercase;
+    font-size:20px ;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: initial;
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+    color: cyan;
+    background-color: cyan;
+}
+
+.acceuil{
+    margin-left: 0px;
+    
+}
+.forum{
+    margin-right: 0px;
+}
+a{
+    text-decoration:cadetblue;
+    color: cyan;
+}
+
 #second_aide
 {
     background-color: black;
