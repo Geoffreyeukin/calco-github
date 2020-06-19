@@ -57,7 +57,7 @@ a{
 #second_aide
 {
     background-color: black;
-    color:black;
+    color:white;
     width:52%;
     float: left;
     border-collapse: collapse;
@@ -67,7 +67,7 @@ text-align: right;
 }
 #aide{
     background-color: black;
-    color:black;
+    color:white;
     border: none;
     text-align:left;
     width:48%;
